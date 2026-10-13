@@ -15,7 +15,8 @@ I am always open to academic discussions and research collaborations. Feel free 
 
 Collaborators
 ======
-I am fortunate to collaborate with talented researchers, including:
+I am fortunate to collaborate with talented researchers, including:  
+
 **[Prof. Guangwei Gao](https://guangweigao.github.io/)** — Nanjing University of Science and Technology.  
 **[Prof. Hao Wu](https://hackhao.github.io/)** — Nanjing University.  
 **[Prof. Dongchen Zhu](https://sim.cas.cn/dwjs2016/zgjrc/rgzn/202505/t20250509_7648636.html)** - Chinese Academy of Sciences.  
