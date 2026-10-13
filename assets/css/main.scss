@@ -36,63 +36,10 @@
     "layout/archive",
     "layout/sidebar"
 ;
-
-/* ==========================================
-   Academic Homepage - Typography
-   ========================================== */
-
-/* Main text */
-body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  color: #2c3e50;
-}
-
-/* Homepage content */
 .page__content {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  line-height: 1.65;
-  font-weight: 400;
+  font-size: 14px !important;
 }
 
-/* Paragraph spacing */
-.page__content p {
-  margin-bottom: 1.2em;
-}
-
-/* Headings */
-.page__content h1,
-.page__content h2,
-.page__content h3 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  color: #2c3e50;
-}
-
-/* Section headings */
-.page__content h2 {
-  font-size: 28px;
-  margin-top: 1.8em;
-  margin-bottom: 0.8em;
-}
-
-/* Links */
-.page__content a {
-  color: #2374a5;
-  text-decoration: none;
-}
-
-.page__content a:hover {
-  text-decoration: underline;
-}
-
-/* Sidebar */
-.author__name {
-  font-weight: 500;
-}
-
-.author__bio {
-  font-size: 15px;
-  line-height: 1.6;
+.page__title {
+  color: red !important;
 }
