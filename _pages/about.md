@@ -8,16 +8,18 @@ redirect_from:
 ---
 ⛹🏻‍♂️About Me
 ======
-Hi, I'm **Guoan Xu**. I am currently a Ph.D. researcher at the University of Technology Sydney (UTS), Australia, under the supervision of **[Prof. Wenjing Jia](https://profiles.uts.edu.au/Wenjing.Jia)**. Before pursuing my Ph.D., I received my Master's degree from Nanjing University of Posts and Telecommunications (NJUPT) in 2022, supervised by **[Prof. Guangwei Gao](https://guangweigao.github.io/)**. My research interests lie in **Computer Vision** and **Deep Learning**, with a particular focus on **Visual Understanding** and **Visual Generation**. 
+Hi, I'm **Guoan Xu**. I am currently a Ph.D. researcher at the University of Technology Sydney (UTS), Australia, under the supervision of **[Prof. Wenjing Jia](https://profiles.uts.edu.au/Wenjing.Jia)**. Before pursuing my Ph.D., I received my Master's degree from Nanjing University of Posts and Telecommunications (NJUPT) in 2022, supervised by **[Prof. Guangwei Gao](https://guangweigao.github.io/)**. My research interests lie in **Computer Vision** and **Deep Learning**, with a particular focus on **Visual Understanding** (Segmentation, Detection, Depth Estimation, 3DGS, Image Restoration, etc.). 
 
 I am always open to academic discussions and research collaborations. Feel free to reach out!
 
 📰News
 ======
-Jul 10, 2026	1 ACM MM paper accepted!
+Jul. 10, 2026	1 ACM MM paper accepted!
+Jun. 20, 2026  1 IROS paper accepted!
+Apr. 16, 2026  1 TIP paper accepted!
 
 ✒️Academic Service
 ======
-· Conference reviewer: ICML, AAAI, IJCAI, ACM MM, etc.
+· Conference reviewer: ICML, AAAI, IJCAI, ACM MM, etc.  
 · Journal reviewer: TIP, TMM, TNNLS, TCSVT, TITS, PR, etc.
 
