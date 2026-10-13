@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Sydney, AUS"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "Guoan Xu"
 title_separator          : "-"
