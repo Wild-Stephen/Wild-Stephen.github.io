@@ -16,6 +16,7 @@ I am always open to academic discussions and research collaborations. Feel free 
 ======
 Jul. 10, 2026	1 ACM MM paper accepted!  
 Jun. 20, 2026  1 IROS paper accepted!  
+May. 1, 2026  1 co-author ICML paper accepted! Congratuations to Yang Xiao!  
 Apr. 16, 2026  1 TIP paper accepted!  
 
 ✒️Academic Service
