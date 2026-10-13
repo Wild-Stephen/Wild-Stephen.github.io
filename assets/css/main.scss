@@ -36,13 +36,35 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+/* Homepage typography */
+
+/* Main body text */
 .page__content {
   font-size: 14px !important;
+  line-height: 1.65 !important;
+  font-weight: 400;
 }
 
-.page__title {
-  font-size: 24px !important;
+/* About Me title */
+.page .page__title,
+.page__inner-wrap .page__title,
+h1.page__title {
+  font-size: 16px !important;
   font-weight: 400 !important;
-  line-height: 1.3;
+  line-height: 1.4 !important;
   color: #2c3e50 !important;
 }
+
+/* Section headings */
+.page__content h2 {
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  color: #2c3e50 !important;
+}
+
+/* Links */
+.page__content a {
+  color: #2374a5;
+}
+
