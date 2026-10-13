@@ -14,9 +14,9 @@ I am always open to academic discussions and research collaborations. Feel free 
 
 📰News
 ======
-Jul. 10, 2026	1 ACM MM paper accepted!
-Jun. 20, 2026  1 IROS paper accepted!
-Apr. 16, 2026  1 TIP paper accepted!
+Jul. 10, 2026	1 ACM MM paper accepted!  
+Jun. 20, 2026  1 IROS paper accepted!  
+Apr. 16, 2026  1 TIP paper accepted!  
 
 ✒️Academic Service
 ======
