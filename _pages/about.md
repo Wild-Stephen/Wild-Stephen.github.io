@@ -13,7 +13,7 @@ My research interests lie in **Computer Vision** and **Deep Learning**, with a p
 
 I am always open to academic discussions and research collaborations. Feel free to reach out!
 
-News
+News✉️
 ======
 
 
