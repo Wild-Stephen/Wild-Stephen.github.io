@@ -71,52 +71,47 @@ h1.page__title {
 }
 
 
-/* =====================================
-   Publications page typography
-   ===================================== */
+/* Publications page */
 
-/* Publications page body */
-.archive {
-  font-size: 14px !important;
-  line-height: 1.65 !important;
-  font-weight: 400;
-}
-
-/* Publications page title */
+/* 页面标题 */
+.archive h1.page__title,
 .archive .page__title {
   font-size: 18px !important;
   font-weight: 800 !important;
-  color: #000000 !important;
+  color: #000 !important;
 }
 
 /* Journal Articles / Conference Papers */
+.archive .archive__subtitle,
 .archive h2,
-.archive .archive__subtitle {
+.archive h3 {
   font-size: 18px !important;
   font-weight: 800 !important;
-  line-height: 1.4 !important;
-  color: #000000 !important;
+  color: #000 !important;
 }
 
-/* Individual paper titles */
+/* 论文标题 */
 .archive .archive__item-title,
-.archive .archive__item-title a {
+.archive .archive__item-title a,
+.archive .list__item h2,
+.archive .list__item h2 a {
   font-size: 16px !important;
   font-weight: 700 !important;
-  line-height: 1.5 !important;
 }
 
-/* Paper descriptions and metadata */
+/* 论文正文、期刊信息 */
+.archive .archive__item,
 .archive .archive__item p,
 .archive .archive__item-excerpt,
 .archive .page__meta {
   font-size: 14px !important;
   line-height: 1.65 !important;
-  font-weight: 400;
 }
 
-/* Paper links */
-.archive .archive__item a {
-  color: #2374a5;
+/* Publications 页面顶部介绍 */
+.archive > p,
+.archive > div > p {
+  font-size: 14px !important;
+  line-height: 1.65 !important;
 }
 
