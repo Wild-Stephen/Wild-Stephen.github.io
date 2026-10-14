@@ -122,3 +122,46 @@ h1.page__title {
   font-weight: 400 !important;
   line-height: 1.65 !important;
 }
+
+
+/* ==================================
+   CV page typography
+   ================================== */
+
+/* CV 页面整体正文 */
+.page__content {
+  font-size: 14px !important;
+  line-height: 1.65 !important;
+}
+
+/* Education / Work experience 标题 */
+.page__content h2,
+.page__content h3 {
+  font-size: 18px !important;
+  font-weight: 800 !important;
+  line-height: 1.4 !important;
+  color: #000000 !important;
+}
+
+/* CV 列表文字 */
+.page__content ul,
+.page__content ol,
+.page__content li,
+.page__content li p {
+  font-size: 14px !important;
+  line-height: 1.65 !important;
+  font-weight: 400;
+}
+
+/* 缩小列表间距 */
+.page__content li {
+  margin-bottom: 6px !important;
+}
+
+/* 二级列表 */
+.page__content li ul,
+.page__content li ol {
+  margin-top: 5px !important;
+  margin-bottom: 8px !important;
+}
+
