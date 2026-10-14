@@ -14,10 +14,10 @@ I am always open to academic discussions and research collaborations. Feel free 
 
 📰News
 ======
-Jul. 10, 2026	1 **ACM MM**(CCF-A) paper accepted!  
-Jun. 20, 2026  1 **IROS**(CCF-C) paper accepted!  
-May. 1, 2026  1 Co-author **ICML**(CCF-A) paper accepted! Congratuations to Yang Xiao!  
-Apr. 16, 2026  1 **TIP**(CCF-A) paper accepted!  
+Jul. 10, 2026	   🎉1 **ACM MM**(CCF-A) paper accepted!  
+Jun. 20, 2026    🎉1 **IROS**(CCF-C) paper accepted!  
+May. 1, 2026     🎉1 Co-author **ICML**(CCF-A) paper accepted! Congratuations to Yang Xiao!  
+Apr. 16, 2026    🎉1 **TIP**(CCF-A) paper accepted!  
 
 ✒️Academic Service
 ======
