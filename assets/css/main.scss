@@ -37,25 +37,30 @@
     "layout/sidebar"
 ;
 
-/* Homepage typography */
 
-/* Keep body text unchanged */
+/* ==========================================
+   Academic Homepage - Unified Typography
+   ========================================== */
+
+/* 1. About Me 正文 */
 .page__content {
   font-size: 14px !important;
   line-height: 1.65 !important;
   font-weight: 400;
 }
-/* About Me */
+
+/* 2. 页面主标题：About Me / Publications / CV */
+.page__title,
 .page .page__title,
 .page__inner-wrap .page__title,
-h1.page__title {
+.archive .page__title {
   font-size: 18px !important;
   font-weight: 800 !important;
   line-height: 1.4 !important;
   color: #000000 !important;
 }
 
-/* News, Academic Service, Collaborators */
+/* 3. About Me 章节标题 */
 .page__content h1,
 .page__content h2,
 .page__content h3 {
@@ -65,103 +70,64 @@ h1.page__title {
   color: #000000 !important;
 }
 
-/* Links */
-.page__content a {
-  color: #2374a5;
-}
-
-
-/* Publications page */
-
-/* 页面标题 */
-.archive h1.page__title,
-.archive .page__title {
-  font-size: 18px !important;
-  font-weight: 800 !important;
-  color: #000 !important;
-}
-
-/* Journal Articles / Conference Papers */
-.archive .archive__subtitle,
+/* 4. Publications / CV 章节标题 */
+.archive h1,
 .archive h2,
-.archive h3 {
-  font-size: 18px !important;
-  font-weight: 800 !important;
-  color: #000 !important;
-}
-
-/* 论文标题 */
-.archive .archive__item-title,
-.archive .archive__item-title a,
-.archive .list__item h2,
-.archive .list__item h2 a {
-  font-size: 16px !important;
-  font-weight: 700 !important;
-}
-
-/* 论文正文、期刊信息 */
-.archive .archive__item,
-.archive .archive__item p,
-.archive .archive__item-excerpt,
-.archive .page__meta {
-  font-size: 14px !important;
-  line-height: 1.65 !important;
-}
-
-/* Publications 页面顶部介绍 */
-.archive > p,
-.archive > div > p {
-  font-size: 14px !important;
-  line-height: 1.65 !important;
-}
-
-/* Publications 顶部 Google Scholar 介绍 */
-.wordwrap,
-.wordwrap a {
-  font-size: 14px !important;
-  font-weight: 400 !important;
-  line-height: 1.65 !important;
-}
-
-
-/* ==================================
-   CV page typography
-   ================================== */
-
-/* CV 页面整体正文 */
-.page__content {
-  font-size: 14px !important;
-  line-height: 1.65 !important;
-}
-
-/* Education / Work experience 标题 */
-.page__content h2,
-.page__content h3 {
+.archive h3,
+.archive .archive__subtitle {
   font-size: 18px !important;
   font-weight: 800 !important;
   line-height: 1.4 !important;
   color: #000000 !important;
 }
 
-/* CV 列表文字 */
-.page__content ul,
-.page__content ol,
-.page__content li,
-.page__content li p {
-  font-size: 14px !important;
-  line-height: 1.65 !important;
-  font-weight: 400;
+/* 5. Publications 论文标题 */
+.archive .archive__item-title,
+.archive .archive__item-title a {
+  font-size: 16px !important;
+  font-weight: 700 !important;
+  line-height: 1.5 !important;
 }
 
-/* 缩小列表间距 */
+/* 6. Publications / CV 正文 */
+.archive,
+.archive p,
+.archive .archive__item,
+.archive .archive__item-excerpt,
+.archive .page__meta,
+.archive .wordwrap,
+.archive .wordwrap a {
+  font-size: 14px !important;
+  line-height: 1.65 !important;
+}
+
+/* 7. CV 列表 */
+.archive ul,
+.archive ol,
+.archive li,
+.archive li p,
+.page__content ul,
+.page__content ol,
+.page__content li {
+  font-size: 14px !important;
+  line-height: 1.65 !important;
+}
+
+/* 8. CV 列表间距 */
+.archive li,
 .page__content li {
   margin-bottom: 6px !important;
 }
 
-/* 二级列表 */
-.page__content li ul,
-.page__content li ol {
+.archive li ul,
+.archive li ol {
   margin-top: 5px !important;
   margin-bottom: 8px !important;
+}
+
+/* 9. 链接颜色 */
+.page__content a,
+.archive a {
+  color: #2374a5;
 }
 
