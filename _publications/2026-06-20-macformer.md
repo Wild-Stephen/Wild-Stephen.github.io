@@ -1,4 +1,3 @@
-
 ---
 title: "MacFormer: Semantic Segmentation with Fine Object Boundaries"
 collection: publications
