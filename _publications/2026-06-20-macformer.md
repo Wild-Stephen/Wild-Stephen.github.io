@@ -1,11 +1,13 @@
 ---
 title: "MacFormer: Semantic Segmentation with Fine Object Boundaries"
 collection: publications
-permalink: /publication/2026-06-20-macformer/
+category: conferences
+permalink: /publication/2026-06-20-macformer
+excerpt: "Semantic segmentation with fine object boundaries."
 date: 2026-06-20
-authors: "<strong>Guoan Xu</strong>, Jiaming Chen, Wenfeng Huang, Guangwei Gao, Wenjing Jia"
-venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026"
+venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 paperurl: "https://arxiv.org/abs/2408.05699"
-codeurl: ""
-bibtexurl: ""
+citation: 'Guoan Xu, Jiaming Chen, Wenfeng Huang, Guangwei Gao, and Wenjing Jia. "MacFormer: Semantic Segmentation with Fine Object Boundaries." <i>IROS</i>, 2026.'
 ---
+
+MacFormer: Semantic Segmentation with Fine Object Boundaries.
