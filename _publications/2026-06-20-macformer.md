@@ -9,5 +9,3 @@ venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IRO
 paperurl: "https://arxiv.org/abs/2408.05699"
 citation: 'Guoan Xu, Jiaming Chen, Wenfeng Huang, Guangwei Gao, and Wenjing Jia. "MacFormer: Semantic Segmentation with Fine Object Boundaries." <i>IROS</i>, 2026.'
 ---
-
-MacFormer: Semantic Segmentation with Fine Object Boundaries.
