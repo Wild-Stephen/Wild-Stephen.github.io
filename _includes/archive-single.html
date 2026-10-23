@@ -33,6 +33,43 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
+    
+    {% if post.collection == 'publications' %}
+    
+      {% if post.authors %}
+        <p class="publication-authors">
+          {{ post.authors }}
+        </p>
+      {% endif %}
+    
+      {% if post.venue %}
+        <p class="publication-venue">
+          <em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+        </p>
+      {% endif %}
+    
+      <p class="publication-links">
+        {% if post.paperurl %}
+          <a href="{{ post.paperurl }}">Paper</a>
+        {% endif %}
+    
+        {% if post.codeurl %}
+          {% if post.paperurl %} / {% endif %}
+          <a href="{{ post.codeurl }}">Code</a>
+        {% endif %}
+    
+        {% if post.bibtexurl %}
+          {% if post.paperurl or post.codeurl %} / {% endif %}
+          <a href="{{ post.bibtexurl }}">BibTeX</a>
+        {% endif %}
+      </p>
+    
+    </article>
+    </div>
+    
+    {% else %}
+
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -82,3 +119,4 @@
 
   </article>
 </div>
+{% endif %}
