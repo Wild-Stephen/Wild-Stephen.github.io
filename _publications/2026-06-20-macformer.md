@@ -3,7 +3,7 @@ title: "MacFormer: Semantic Segmentation with Fine Object Boundaries"
 collection: publications
 category: conferences
 permalink: /publication/2026-06-20-macformer
-excerpt: "Semantic segmentation with fine object boundaries."
+excerpt: ""
 date: 2026-06-20
 venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 paperurl: "https://arxiv.org/abs/2408.05699"
